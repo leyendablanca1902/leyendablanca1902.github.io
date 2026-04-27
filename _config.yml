@@ -8,3 +8,13 @@ remote_theme: "daattali/beautiful-jekyll@6.0.1"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Configuración para compartir noticias
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: false
+  whatsapp: true
+
+# Esto activa los botones debajo de cada post
+show-share-links: true
