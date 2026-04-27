@@ -1,0 +1,18 @@
+title: Leyenda Blanca
+description: >- 
+  Toda la actualidad del Real Madrid: noticias, fichajes y opinión 
+  desde el corazón del madridismo.
+baseurl: "" # Déjalo vacío
+url: "https://leyendablanca1902.duckdns.org"
+
+# Aquí elegimos un diseño básico pero limpio
+theme: minima 
+
+# Configuración de los posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      
