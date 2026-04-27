@@ -6,7 +6,11 @@ baseurl: "" # Déjalo vacío
 url: "https://leyendablanca1902.duckdns.org"
 
 # Aquí elegimos un diseño básico pero limpio
-theme: minima 
+theme: remote_theme: "daattali/beautiful-jekyll@6.0.1"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
 
 # Configuración de los posts
 defaults:
