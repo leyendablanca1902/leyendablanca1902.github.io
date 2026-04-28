@@ -1,32 +1,12 @@
-# Configuración de Leyenda Blanca
 title: "Leyenda Blanca"
-author: "Tu Nombre o Madridista"
+author: "Madridista"
+remote_theme: "daattali/beautiful-jekyll@5.0.0"
+
 navbar-links:
   "Plantilla": "plantilla"
   "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
-  "Sobre el Blog": "about"
-
-# Imagen que sale cuando compartes el link
-avatar: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Alvaro_Arbeloa_2012.jpg"
-
-# Diseño del blog (No tocar esto)
-remote_theme: "daattali/beautiful-jekyll@5.0.0"
-
-# Redes sociales
-share-links-active:
-  twitter: true
-  facebook: false
-  linkedin: false
-  whatsapp: true
 
 show-share-links: true
-
-# Configuración técnica básica
-url: "" 
-baseurl: ""
-
-# Esto ayuda a que el menú funcione bien en móviles
-beautifuljekyll:
-  js:
-    - "https://code.jquery.com/jquery-3.5.1.slim.min.js"
-    - "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+share-links-active:
+  twitter: true
+  whatsapp: true
