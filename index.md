@@ -5,13 +5,12 @@ subtitle: "El blog oficial del madridismo"
 background: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Estadio_Santiago_Bernab%C3%A9u_%28Madrid%29_2.jpg"
 ---
 
-Bienvenido al corazón del madridismo. Aquí tienes la última hora del club blanco.
+Bienvenido al corazón del madridismo. Aquí tienes la última hora del club blanco y acceso a las estadísticas en tiempo real.
 
-### 📊 Clasificación en Tiempo Real
-
-<div style="margin: 20px 0; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
-<iframe src="https://www.livescore.cz/ls_widget.php?league=spain_primera_division&language=es&theme=light" 
-width="100%" height="500" frameborder="0"></iframe>
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://www.google.com/search?q=clasificacion+la+liga" target="_blank" style="background-color: #00529f; color: white; padding: 15px 25px; text-decoration: none; border-radius: 50px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2); display: inline-block;">
+    📊 CONSULTAR CLASIFICACIÓN EN VIVO
+  </a>
 </div>
 
 ---
