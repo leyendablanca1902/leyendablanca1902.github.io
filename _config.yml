@@ -16,5 +16,12 @@ share-links-active:
   linkedin: false
   whatsapp: true
 
+navbar-links:
+  Plantilla: "plantilla"
+  Resultados:
+ "https://www.google.com/search?q=clasificacion+la+liga"
+  Sobre el Blog: "about"
+
+
 # Esto activa los botones debajo de cada post
 show-share-links: true
