@@ -14,7 +14,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: false
-  whatsapp: true
+  whatsapp: true 
 
 navbar-links:
   "Plantilla": "plantilla"
