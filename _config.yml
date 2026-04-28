@@ -6,7 +6,11 @@ navbar-links:
   "Plantilla": "plantilla"
   "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
 
+# Configuración de botones para compartir
 show-share-links: true
+
 share-links-active:
   twitter: true
+  facebook: false
+  linkedin: false
   whatsapp: true
