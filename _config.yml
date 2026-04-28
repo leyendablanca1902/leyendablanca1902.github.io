@@ -7,12 +7,11 @@ navbar-links:
   "Plantilla": "plantilla"
   "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
 
-# Configuración de botones de compartir (Aparecen DENTRO de los posts)
+# Botones para compartir en redes
 show-share-links: true
 share-links-active:
   twitter: true
   whatsapp: true
-  facebook: false
 
-# Desactivar etiquetas en la portada para evitar errores 404
-show-tags: false
+# Esta línea es el "truco" para que aparezcan en todos los artículos
+post_share_links: true 
