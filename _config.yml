@@ -1,35 +1,32 @@
-title: Leyenda Blanca
-description: Toda la actualidad del Real Madrid. Noticias, fichajes y opinión.
-url: "https://leyendablanca1902.duckdns.org"
-
-# Aquí cargamos el diseño profesional
-remote_theme: "daattali/beautiful-jekyll@6.0.1"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Configuración para compartir noticias
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: false
-  whatsapp: true 
-
+# Configuración de Leyenda Blanca
+title: "Leyenda Blanca"
+author: "Tu Nombre o Madridista"
 navbar-links:
   "Plantilla": "plantilla"
   "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
   "Sobre el Blog": "about"
 
- "https://www.google.com/search?q=clasificacion+la+liga"
-  Sobre el Blog: "about"
+# Imagen que sale cuando compartes el link
+avatar: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Alvaro_Arbeloa_2012.jpg"
 
-# Esto activa los botones debajo de cada post
+# Diseño del blog (No tocar esto)
+remote_theme: "daattali/beautiful-jekyll@5.0.0"
+
+# Redes sociales
+share-links-active:
+  twitter: true
+  facebook: false
+  linkedin: false
+  whatsapp: true
+
 show-share-links: true
 
-# Forzar carga de scripts
+# Configuración técnica básica
+url: "" 
+baseurl: ""
+
+# Esto ayuda a que el menú funcione bien en móviles
 beautifuljekyll:
   js:
     - "https://code.jquery.com/jquery-3.5.1.slim.min.js"
     - "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
-    - "https://beautifuljekyll.com/assets/js/main.js"
