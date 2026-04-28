@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% if page.tags.size > 0 %}
+  <div class="blog-tags" style="margin-top: 30px;">
+    <span style="font-weight: bold; color: #555;">Etiquetas:</span>
+    {% for tag in page.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{ tag | slugify }}" 
+         style="background: #eef4f9; color: #00529f; padding: 5px 15px; border-radius: 20px; border: 1px solid #00529f; text-decoration: none; font-size: 0.85em; margin: 5px; display: inline-block; font-weight: bold;">
+        #{{ tag }}
+      </a>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<style>
+  .share-buttons a { margin: 5px; display: inline-block; }
+  .blog-tags a:hover { background: #00529f !important; color: white !important; }
+</style>
