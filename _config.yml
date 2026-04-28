@@ -17,8 +17,10 @@ share-links-active:
   whatsapp: true
 
 navbar-links:
-  Plantilla: "plantilla"
-  Resultados:
+  "Plantilla": "plantilla"
+  "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
+  "Sobre el Blog": "about"
+
  "https://www.google.com/search?q=clasificacion+la+liga"
   Sobre el Blog: "about"
 
