@@ -24,6 +24,12 @@ navbar-links:
  "https://www.google.com/search?q=clasificacion+la+liga"
   Sobre el Blog: "about"
 
-
 # Esto activa los botones debajo de cada post
 show-share-links: true
+
+# Forzar carga de scripts
+beautifuljekyll:
+  js:
+    - "https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    - "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+    - "https://beautifuljekyll.com/assets/js/main.js"
