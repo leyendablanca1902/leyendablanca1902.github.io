@@ -2,16 +2,17 @@ title: "Leyenda Blanca"
 author: "Madridista"
 remote_theme: "daattali/beautiful-jekyll@5.0.0"
 
+# Menú principal
 navbar-links:
   "Plantilla": "plantilla"
   "Resultados": "https://www.google.com/search?q=clasificacion+la+liga"
 
-# Configuración de botones para compartir
+# Configuración de botones de compartir (Aparecen DENTRO de los posts)
 show-share-links: true
-
 share-links-active:
   twitter: true
-  facebook: false
-  linkedin: false
   whatsapp: true
+  facebook: false
 
+# Desactivar etiquetas en la portada para evitar errores 404
+show-tags: false
