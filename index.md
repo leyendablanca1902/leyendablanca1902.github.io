@@ -8,6 +8,10 @@ background: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Estadio_Santiag
 Bienvenido al corazón del madridismo. Aquí tienes la última hora del club blanco.
 
 ### 📊 Clasificación en Tiempo Real
-https://www.livescore.cz/ls_widget.php?league=spain_primera_division&language=es&theme=light
+
+<div style="margin: 20px 0; border-radius: 12px; overflow: hidden; border: 1px solid #ddd;">
+<iframe src="https://www.livescore.cz/ls_widget.php?league=spain_primera_division&language=es&theme=light" 
+width="100%" height="500" frameborder="0"></iframe>
+</div>
 
 ---
