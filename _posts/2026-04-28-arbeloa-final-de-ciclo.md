@@ -23,21 +23,3 @@ Según informaciones de última hora, el crédito del "Espartano" se está agota
 > "Salvo milagro, Arbeloa no seguirá", comentan los expertos. La pregunta ahora no es si habrá cambio, sino quién será el valiente que tome el mando en verano.
 
 **¿Crees que Arbeloa es el culpable del colapso o el arbitraje nos ha quitado la Liga?** ¡Comparte esta noticia y danos tu opinión en redes!
-
-<style>
-  .post-tags a, .blog-tags a {
-    background: #eef4f9;
-    color: #00529f !important;
-    padding: 5px 15px;
-    border-radius: 20px;
-    border: 1px solid #00529f;
-    text-decoration: none;
-    font-size: 0.9em;
-    margin: 5px;
-    display: inline-block;
-  }
-  .post-tags a:hover {
-    background: #00529f;
-    color: white !important;
-  }
-</style>
